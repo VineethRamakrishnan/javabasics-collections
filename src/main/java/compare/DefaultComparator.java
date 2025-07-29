@@ -2,6 +2,10 @@ package main.java.compare;
 
 import main.java.model.Employee;
 
+/**
+*
+* This class to demostrate the default comparator
+*/
 public class DefaultComparator {
 
 	public static void main(String[] args) {

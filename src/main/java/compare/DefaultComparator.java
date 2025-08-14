@@ -4,7 +4,7 @@ import main.java.model.Employee;
 
 /**
 *
-* This class to demostrate the default comparator
+* This class to demostrate the default comparator of the Java
 */
 public class DefaultComparator {
 
